@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
- DELMUS OGORA- [Github](https://github.com/DELMUS1M) / [Twitter](https://twitter.com/OGORA DELMUS)
+DELMUS OGORA- [Github](https://github.com/DELMUS1M) / [Twitter](https://twitter.com/OGORADELMUS)
 
 ## License
 Public Domain. No copy write protection. 
